@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 
 ### Editor
-![](https://img.shields.io/badge/Editor-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=2bbc8a)
 
 ### Tools
